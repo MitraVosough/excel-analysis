@@ -1,6 +1,6 @@
 # excel-analysis
-First SQL project 
-This repository contains a simple sales data analysis project built with Microsoft Excel.
+This project analyzes sales data using Excel tools (Pivot Table, Charts) and SQL queries using Python.  
+The goal is to extract insights from structured sales data.
 
 ## What's Included
 - Monthly sales data (.xlsx)
@@ -8,9 +8,10 @@ This repository contains a simple sales data analysis project built with Microso
 - Charts and graphs for better visualization
 
 ## Tools Used
-- Microsoft Excel / Google Sheets
-- Basic Excel formulas (SUM, AVERAGE, VLOOKUP)
-- Pivot Tables & Charts
+- Excel (Pivot Table, Sorting, Filtering, Charts)
+- Python (Pandas, DuckDB)
+- SQL (SELECT, GROUP BY, Aggregates)
+- Visual Studio Code
 
 ## Objective
 To clean, analyze, and visualize sales data in a way that supports business decision-making.
